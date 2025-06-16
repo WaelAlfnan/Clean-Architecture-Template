@@ -55,7 +55,7 @@ To get this template up and running:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/WaelAlfnan/Clean-Architecture-Template]
+    git clone https://github.com/WaelAlfnan/Clean-Architecture-Template
     cd App
     ```
 2.  **Restore NuGet packages:**
