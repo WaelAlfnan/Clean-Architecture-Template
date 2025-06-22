@@ -23,6 +23,7 @@ D:\DEPI\Clean-Architecture-Template\App\App.Application\obj\Debug\net8.0\App.App
 D:\DEPI\Clean-Architecture-Template\App\App.Application\obj\Debug\net8.0\App.Application.AssemblyInfoInputs.cache
 D:\DEPI\Clean-Architecture-Template\App\App.Application\obj\Debug\net8.0\App.Application.AssemblyInfo.cs
 D:\DEPI\Clean-Architecture-Template\App\App.Application\obj\Debug\net8.0\App.Application.csproj.CoreCompileInputs.cache
+D:\DEPI\Clean-Architecture-Template\App\App.Application\obj\Debug\net8.0\App.Application.sourcelink.json
 D:\DEPI\Clean-Architecture-Template\App\App.Application\obj\Debug\net8.0\App.Appl.090A7001.Up2Date
 D:\DEPI\Clean-Architecture-Template\App\App.Application\obj\Debug\net8.0\App.Application.dll
 D:\DEPI\Clean-Architecture-Template\App\App.Application\obj\Debug\net8.0\refint\App.Application.dll

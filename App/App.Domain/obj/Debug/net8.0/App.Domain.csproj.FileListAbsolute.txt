@@ -16,6 +16,7 @@ D:\DEPI\Clean-Architecture-Template\App\App.Domain\obj\Debug\net8.0\App.Domain.G
 D:\DEPI\Clean-Architecture-Template\App\App.Domain\obj\Debug\net8.0\App.Domain.AssemblyInfoInputs.cache
 D:\DEPI\Clean-Architecture-Template\App\App.Domain\obj\Debug\net8.0\App.Domain.AssemblyInfo.cs
 D:\DEPI\Clean-Architecture-Template\App\App.Domain\obj\Debug\net8.0\App.Domain.csproj.CoreCompileInputs.cache
+D:\DEPI\Clean-Architecture-Template\App\App.Domain\obj\Debug\net8.0\App.Domain.sourcelink.json
 D:\DEPI\Clean-Architecture-Template\App\App.Domain\obj\Debug\net8.0\App.Domain.dll
 D:\DEPI\Clean-Architecture-Template\App\App.Domain\obj\Debug\net8.0\refint\App.Domain.dll
 D:\DEPI\Clean-Architecture-Template\App\App.Domain\obj\Debug\net8.0\App.Domain.pdb
